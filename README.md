@@ -1,2 +1,0 @@
-# WeirdSpaceInAngular
-Created with CodeSandbox
